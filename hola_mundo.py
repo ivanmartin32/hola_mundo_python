@@ -14,4 +14,4 @@ __author__ = "Inove Coding School"
 __email__ = "alumnos@inove.com.ar"
 __version__ = "1.3"
 
-print("soy ivan Hola Mundo!")
+print("Hola Mundo!")
